@@ -26,3 +26,18 @@ A content-based movie recommendation system built using:
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+
+## Example Output
+
+The system recommends movies based on similarity between storylines using TF-IDF and cosine similarity.
+
+Example recommendation:
+
+Input Movie: Abigail
+
+Recommended Movies:
+- The Beekeeper
+- IF
+- Trap
+- Bone Lake
+- Ordinary Angels
